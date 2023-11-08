@@ -1,3 +1,15 @@
 body{
-    background-color: #139f06e5;
+    background-color: rgb(8, 247, 8)
+}
+
+img{
+    width: 200px;
+    border: black 2px solid;
+}
+
+div{
+    display: flex;
+    justify-self: left;
+    height: 15vh;
+    width: 150px;
 }
