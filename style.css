@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(45deg, blue, rgb(69, 202, 247));
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+button{
+    background: linear-gradient(45deg, rgb(39, 39, 255), rgb(69, 202, 247));
+}
