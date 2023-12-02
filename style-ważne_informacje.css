@@ -7,3 +7,11 @@ body{
 button{
     background: linear-gradient(45deg, rgb(39, 39, 255), rgb(69, 202, 247));
 }
+
+table{
+    background: linear-gradient(60deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.5));
+}
+
+th{
+    background: rgba(255, 255, 255, 0.1);
+}
