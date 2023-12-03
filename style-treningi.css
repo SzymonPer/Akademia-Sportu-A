@@ -1,7 +1,6 @@
 body{
     background: linear-gradient(45deg, blue, rgb(69, 202, 247));
-    min-height: 100vh;
-    min-width: 100vw;
+    
 }
 
 th{
